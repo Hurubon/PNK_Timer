@@ -1,4 +1,4 @@
-local Timer = PNK_LibStub:NewLibrary("PNK_Timer", 1);
+local Timer = PNK_LibStub:NewLibrary("PNK_Timer", 2);
 
 if Timer == nil then
     return;

@@ -1,6 +1,6 @@
 ## Title: |cFF2EBFA6PNK_Timer|r
 ## Interface: 30300
-## Version: 0.2alpha
+## Version: 0.1.3alpha
 ## Author: Hurubon
 ## DefaultState: enabled
 
